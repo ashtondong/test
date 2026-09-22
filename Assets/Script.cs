@@ -6,7 +6,7 @@ public class Script : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        print("hello");
+        print("hello world");
 
     }
 
